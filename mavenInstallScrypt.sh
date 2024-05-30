@@ -27,36 +27,34 @@ mvn install:install-file -Dfile=spring-boot-starter-web-2.6.0.jar -DgroupId=org.
 # dependency 13
 mvn install:install-file -Dfile=testng-7.4.0.jar -DgroupId=org.testng -DartifactId=testng -Dversion=7.4.0_update -Dpackaging=jar -DgeneratePom=true
 # dependency 14
-mvn install:install-file -Dfile=axis-1.4.jar -DgroupId=org.apache.axis -DartifactId=axis -Dversion=1.4_fix -Dpackaging=jar -DgeneratePom=true
-# dependency 15
 mvn install:install-file -Dfile=httpclient-4.5.11.jar -DgroupId=org.apache.httpcomponents -DartifactId=httpclient -Dversion=4.5.11_patch -Dpackaging=jar -DgeneratePom=true
-# dependency 16
+# dependency 15
 mvn install:install-file -Dfile=okhttp-3.1.0.jar -DgroupId=com.squareup.okhttp3 -DartifactId=okhttp -Dversion=3.1.0_fix -Dpackaging=jar -DgeneratePom=true
-# dependency 17
+# dependency 16
 mvn install:install-file -Dfile=spring-web-6.1.3.jar -DgroupId=org.springframework -DartifactId=spring-web -Dversion=6.1.3_update -Dpackaging=jar -DgeneratePom=true
-# dependency 18
+# dependency 17
 mvn install:install-file -Dfile=spring-boot-autoconfigure-3.0.3.jar -DgroupId=org.springframework.boot -DartifactId=spring-boot-autoconfigure -Dversion=3.0.3_patch -Dpackaging=jar -DgeneratePom=true
-# dependency 19
+# dependency 18
 mvn install:install-file -Dfile=mysql-connector-java-8.0.11.jar -DgroupId=mysql -DartifactId=mysql-connector-java -Dversion=8.0.11_fix -Dpackaging=jar -DgeneratePom=true
-# dependency 20
+# dependency 19
 mvn install:install-file -Dfile=spring-beans-5.3.4.jar -DgroupId=org.springframework -DartifactId=spring-beans -Dversion=5.3.4_update -Dpackaging=jar -DgeneratePom=true
-# dependency 21
+# dependency 20
 mvn install:install-file -Dfile=commons-collections-3.2.jar -DgroupId=commons-collections -DartifactId=commons-collections -Dversion=3.2_patch -Dpackaging=jar -DgeneratePom=true
-# dependency 22
+# dependency 21
 mvn install:install-file -Dfile=fastjson-1.2.22.jar -DgroupId=com.alibaba -DartifactId=fastjson -Dversion=1.2.22_fix -Dpackaging=jar -DgeneratePom=true
-# dependency 23
+# dependency 22
 mvn install:install-file -Dfile=logback-core-1.3.5.jar -DgroupId=ch.qos.logback -DartifactId=logback-core -Dversion=1.3.5_update -Dpackaging=jar -DgeneratePom=true
-# dependency 24
+# dependency 23
 mvn install:install-file -Dfile=spring-webmvc-6.0.10.jar -DgroupId=org.springframework -DartifactId=spring-webmvc -Dversion=6.0.10_fix -Dpackaging=jar -DgeneratePom=true
-# dependency 25
+# dependency 24
 mvn install:install-file -Dfile=json-20200518.jar -DgroupId=org.json -DartifactId=json -Dversion=20200518_patch -Dpackaging=jar -DgeneratePom=true
-# dependency 26
+# dependency 25
 mvn install:install-file -Dfile=spring-core-6.0.3.jar -DgroupId=org.springframework -DartifactId=spring-core -Dversion=6.0.3_update -Dpackaging=jar -DgeneratePom=true
-# dependency 27
+# dependency 26
 mvn install:install-file -Dfile=commons-beanutils-1.8.3.jar -DgroupId=commons-beanutils -DartifactId=commons-beanutils -Dversion=1.8.3_fix -Dpackaging=jar -DgeneratePom=true
-# dependency 28
+# dependency 27
 mvn install:install-file -Dfile=retrofit-2.3.0.jar -DgroupId=com.squareup.retrofit2 -DartifactId=retrofit -Dversion=2.3.0_patch -Dpackaging=jar -DgeneratePom=true
-# dependency 29
+# dependency 28
 mvn install:install-file -Dfile=protobuf-java-3.21.5.jar -DgroupId=com.google.protobuf -DartifactId=protobuf-java -Dversion=3.21.5_update -Dpackaging=jar -DgeneratePom=true
-# dependency 30
+# dependency 29
 mvn install:install-file -Dfile=h2-2.0.204.jar -DgroupId=com.h2database -DartifactId=h2 -Dversion=2.0.204_fix -Dpackaging=jar -DgeneratePom=true
