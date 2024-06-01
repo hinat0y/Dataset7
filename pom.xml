@@ -80,7 +80,7 @@
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-context</artifactId>
-    	  <version>5.3.12_fix</version>
+    	  <version>5.3.33</version>
 	  </dependency>
 	  
 	  <!-- dependency 12 -->
