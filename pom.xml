@@ -164,7 +164,7 @@
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-webmvc</artifactId>
-    	  <version>6.0.10_fix</version>
+    	  <version>6.1.5</version>
 	  </dependency>
 	  
 	  <!-- dependency 24 -->
