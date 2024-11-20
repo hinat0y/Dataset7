@@ -80,7 +80,7 @@
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-context</artifactId>
-    	  <version>5.3.12_fix</version>
+    	  <version>6.1.14</version>
 	  </dependency>
 	  
 	  <!-- dependency 12 -->
@@ -164,7 +164,7 @@
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-webmvc</artifactId>
-    	  <version>6.0.10_fix</version>
+    	  <version>6.1.14</version>
 	  </dependency>
 	  
 	  <!-- dependency 24 -->
@@ -178,7 +178,7 @@
 	  <dependency>
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-core</artifactId>
-    	  <version>6.0.3_update</version>
+    	  <version>6.1.14</version>
 	  </dependency>
 	  
 	  <!-- dependency 26 -->
